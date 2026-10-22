@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="175 290 690 385" width="690" height="385">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F7DC74"></stop>
+      <stop offset="0.55" stop-color="#E2B437"></stop>
+      <stop offset="1" stop-color="#B8871A"></stop>
+    </linearGradient>
+    <linearGradient id="t" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1E9A5C"></stop>
+      <stop offset="0.55" stop-color="#2A9150"></stop>
+      <stop offset="1" stop-color="#E2B437"></stop>
+    </linearGradient>
+    <linearGradient id="v" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#25B06A"></stop>
+      <stop offset="1" stop-color="#127A44"></stop>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" fill-rule="evenodd" d="M185 300H340A155 182.5 0 0 1 340 665H185ZM262 372V592H332A98 110 0 0 0 332 372Z"></path>
+  <path fill="url(#t)" stroke="#0d0b0a" stroke-width="12" paint-order="stroke" stroke-linejoin="round" d="M398 300H705V372H590V665H522V372H468Z"></path>
+  <path fill="url(#v)" stroke="#E2B437" stroke-width="3" stroke-linejoin="round" d="M602 410H646L688 518L786 300H852L706 665H668Z"></path>
+</svg>
